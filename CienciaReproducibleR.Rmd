@@ -28,7 +28,18 @@ Las acciones manuales no son fácilmente reproducibles
 
 ![](RStudio.png)
 
+## Importación de datos - Desde archivos
 
-## Importación de datos
+- CSV: `read.table()`
+- Paquete `foreign`
+    * Stata: `read.dta()`
+    * SPSS: `read.spss()`
+    * SAS: `read.ssd()`
+    * dBase: `read.dbf()`
+    * ARFF: `read.arff()`
+    * Octave: `read.octave()`
+- Excel: `loadWorkbook()` - Paquete `XLConnect`
+- OpenOffice/LibreOffice: `read.ods()`- Paquete `ROpenOffice`
+- XML: `xmlParse()` - Paquete `XML`
 
 ## Publicación de datos
