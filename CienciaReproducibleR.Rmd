@@ -24,8 +24,10 @@ Las acciones manuales no son fácilmente reproducibles
 
 ![](Automatizacion.png)
 
-
 ## Introducción a R
+
+![](RStudio.png)
+
 
 ## Importación de datos
 
