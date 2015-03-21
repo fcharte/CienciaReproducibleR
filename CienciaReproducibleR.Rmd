@@ -19,6 +19,11 @@ Procedimientos, algoritmos y herramientas disponibles y accesibles
 
 ![](Procedimientos.png)
 
+## En qué consiste la ciencia reproducible
+Las acciones manuales no son fácilmente reproducibles
+
+![](Automatizacion.png)
+
 
 ## Introducción a R
 
