@@ -1,0 +1,20 @@
+---
+title: "Introducción a la ciencia reproducible con R"
+subtitle: "Document Freedom Day - OSLUGR"
+author: "Francisco Charte"
+date: "25 marzo 2015"
+output: beamer_presentation
+theme: dresden
+colortheme: dolphin
+
+---
+
+## En qué consiste la ciencia reproducible
+
+- Datos accesibles
+
+## Introducción a R
+
+## Importación de datos
+
+## Publicación de datos
