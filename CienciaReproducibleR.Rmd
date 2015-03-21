@@ -10,10 +10,15 @@ colortheme: dolphin
 ---
 
 ## En qué consiste la ciencia reproducible
+Datos disponibles y accesibles
 
 ![](DatosAccesibles.png)
 
-Datos disponibles y accesibles
+## En qué consiste la ciencia reproducible
+Procedimientos, algoritmos y herramientas disponibles y accesibles
+
+![](Procedimientos.png)
+
 
 ## Introducción a R
 
