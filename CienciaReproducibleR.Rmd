@@ -59,7 +59,43 @@ Las acciones manuales no son fácilmente reproducibles
 - Hadoop: `RHadoop`
 - Spark: `SparkR`
 - JSON: `jsonlite`
+- Web: `parseHTML()` y `readHTMLTable()` - Paquete `XML`
+- Web: `GET()` - Paquete `httr`
+- Web: `getURL()`y `getForm()` - Paquete `RCurl`
 
+## Importación de datos - Ejemplo
+Tags de los posts del foro de cocina de Stack Exchange
+
+\begin{columns}[c] 
+\column{.5\textwidth} 
+{% start group
+\par 
+\ttfamily\footnotesize 
+library(XML)
+
+library(tm)
+
+library(wordcloud)
+
+content<-xmlTreeParse(filename)
+
+...
+
+docs<-Corpus(VectorSource(content))
+
+docs<-tm\_map(docs, content\_transformer(tolower))
+
+...
+
+wordcloud(DocumentTermMatrix(docs))
+
+\par 
+}
+\column{.5\textwidth}
+
+\includegraphics{WordCloud.png}
+
+\end{columns}
 
 
 ## Publicación de datos
