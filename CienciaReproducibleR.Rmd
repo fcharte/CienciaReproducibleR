@@ -11,21 +11,21 @@ colortheme: dolphin
 ## En qué consiste la ciencia reproducible
 Datos disponibles y accesibles
 
-![](DatosAccesibles.png)
+![](figs/DatosAccesibles.png)
 
 ## En qué consiste la ciencia reproducible
 Procedimientos, algoritmos y herramientas disponibles y accesibles
 
-![](Procedimientos.png)
+![](figs/Procedimientos.png)
 
 ## En qué consiste la ciencia reproducible
 Las acciones manuales no son fácilmente reproducibles
 
-![](Automatizacion.png)
+![](figs/Automatizacion.png)
 
 ## Introducción a R
 
-![](RStudio.png)
+![](figs/RStudio.png)
 
 ## Importación de datos - Desde archivos
 
@@ -92,7 +92,7 @@ wordcloud(DocumentTermMatrix(docs))
 }
 \column{.5\textwidth}
 
-\includegraphics{WordCloud.png}
+\includegraphics{figs/WordCloud.png}
 
 \end{columns}
 
@@ -100,46 +100,46 @@ wordcloud(DocumentTermMatrix(docs))
 Datos obtenidos de la API de GitHub en formato JSON
 `runGitHub('GitHubMining', 'fcharte')`
 
-![](GitHubMining.png)
+![](figs/GitHubMining.png)
 
 ## Exploración y análisis - Herramientas interactivas
 Fáciles de utilizar - Útiles para explorar
 
-![](mldrGUI.png)
+![](figs/mldrGUI.png)
 
 ## Exploración y análisis - Scripts
 Automatizan tareas - Fácil reproducción (`pdf()`, `xtable()`, etc.)
 
-![](ScriptR.png)
+![](figs/ScriptR.png)
 
 ## Exploración y análisis - Libro y ejemplos
 
-![](ExploraVisualiza.png)
+![](figs/ExploraVisualiza.png)
 
 ## Exploración y análisis - Documentos reproducibles
 [RBenchmarkings](https://github.com/fcharte/RBenchmarkings/blob/master/RBenchmarkings.md)
 
-![](RBenchmarks.png)
+![](figs/RBenchmarks.png)
 
 ## Publicación de datos - Documentos Markdown
 RPubs
 
-![](RPubs.png)
+![](figs/RPubs.png)
 
 ## Publicación de datos - Documentos Markdown
 RPubs
 
-![](RPubDoc.png)
+![](figs/RPubDoc.png)
 
 ## Publicación de datos - Experimentos, Figuras, Posters
 `rfigshare`
 
-![](IntFigShare.png)
+![](figs/IntFigShare.png)
 
 ## Publicación de datos - Aplicaciones (ShinyApps)
 `shinyapps::deployApp()`
 
-![](ShinyApps.png)
+![](figs/ShinyApps.png)
 
 ## Publicación de datos - Aplicaciones (GitHub/Gist)
 
@@ -153,4 +153,8 @@ RPubs
 ## ROpenSci
 `http://ropensci.org/packages/`
 
-![](ROpenSci.png)
+![](figs/ROpenSci.png)
+
+## Un gran poder conlleva una gran responsabilidad
+
+![](figs/LaRed.png)
