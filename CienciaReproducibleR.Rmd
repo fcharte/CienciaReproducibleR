@@ -97,5 +97,13 @@ wordcloud(DocumentTermMatrix(docs))
 
 \end{columns}
 
+## Importación de datos - Ejemplo
+Datos obtenidos de la API de GitHub en formato JSON
+`runGitHub('GitHubMining', 'fcharte')`
+
+![](GitHubMining.png)
+
+## Exploración y análisis
+
 
 ## Publicación de datos
