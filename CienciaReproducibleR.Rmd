@@ -103,7 +103,13 @@ Datos obtenidos de la API de GitHub en formato JSON
 
 ![](GitHubMining.png)
 
-## Exploración y análisis
+## Exploración y análisis - Herramientas interactivas
+
+![](mldrGUI.png)
+
+## Exploración y análisis - Scripts
+
+![](ScriptR.png)
 
 
 ## Publicación de datos
