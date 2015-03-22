@@ -121,6 +121,36 @@ Automatizan tareas - Fácil reproducción (`pdf()`, `xtable()`, etc.)
 
 ![](RBenchmarks.png)
 
-## Publicación de datos - Presentaciones
+## Publicación de datos - Documentos Markdown
+RPubs
 
+![](RPubs.png)
 
+## Publicación de datos - Documentos Markdown
+RPubs
+
+![](RPubDoc.png)
+
+## Publicación de datos - Experimentos, Figuras, Posters
+`rfigshare`
+
+![](IntFigShare.png)
+
+## Publicación de datos - Aplicaciones (ShinyApps)
+`shinyapps::deployApp()`
+
+![](ShinyApps.png)
+
+## Publicación de datos - Aplicaciones (GitHub/Gist)
+
+- `devtools`
+    * `install_github()`
+    
+- `shiny`
+    * `runGist()`
+    * `runGitHub()`
+    
+## ROpenSci
+`http://ropensci.org/packages/`
+
+![](ROpenSci.png)
