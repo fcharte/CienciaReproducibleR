@@ -1,7 +1,7 @@
 ---
 title: "Introducción a la ciencia reproducible con R"
 subtitle: "Document Freedom Day - OSLUGR"
-author: "Francisco Charte"
+author: "Francisco Charte (@fcharte, fcharte.com)"
 date: "25 marzo 2015"
 output: beamer_presentation
 theme: dresden
@@ -41,5 +41,25 @@ Las acciones manuales no son fácilmente reproducibles
 - Excel: `loadWorkbook()` - Paquete `XLConnect`
 - OpenOffice/LibreOffice: `read.ods()`- Paquete `ROpenOffice`
 - XML: `xmlParse()` - Paquete `XML`
+
+## Importación de datos - Desde bases de datos
+
+- SQLite: `RSQLite`
+- Oracle: `ROracle`
+- MySQL: `RMySQL`
+- PostgreSQL: `RPostgreSQL`
+- ODBC/JDBC: `RODBC`/`RJDBC`
+- MongoDB: `rmongodb`
+- CouchDB: `R4CouchDB`
+- Cassandra: `RCassandra`
+
+
+## Importación de datos - Otras fuentes
+
+- Hadoop: `RHadoop`
+- Spark: `SparkR`
+- JSON: `jsonlite`
+
+
 
 ## Publicación de datos
