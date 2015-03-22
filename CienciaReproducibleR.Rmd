@@ -1,12 +1,11 @@
 ---
 title: "Introducción a la ciencia reproducible con R"
-subtitle: "Document Freedom Day - OSLUGR"
 author: "Francisco Charte (@fcharte, fcharte.com)"
 date: "25 marzo 2015"
 output: beamer_presentation
+subtitle: Document Freedom Day - OSLUGR
 theme: dresden
 colortheme: dolphin
-
 ---
 
 ## En qué consiste la ciencia reproducible
@@ -104,12 +103,24 @@ Datos obtenidos de la API de GitHub en formato JSON
 ![](GitHubMining.png)
 
 ## Exploración y análisis - Herramientas interactivas
+Fáciles de utilizar - Útiles para explorar
 
 ![](mldrGUI.png)
 
 ## Exploración y análisis - Scripts
+Automatizan tareas - Fácil reproducción (`pdf()`, `xtable()`, etc.)
 
 ![](ScriptR.png)
 
+## Exploración y análisis - Libro y ejemplos
 
-## Publicación de datos
+![](ExploraVisualiza.png)
+
+## Exploración y análisis - Documentos reproducibles
+[RBenchmarkings](https://github.com/fcharte/RBenchmarkings/blob/master/RBenchmarkings.md)
+
+![](RBenchmarks.png)
+
+## Publicación de datos - Presentaciones
+
+
